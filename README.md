@@ -12,11 +12,9 @@
 ## 2.算法
 
 Q-Learning迭代
-$$
-Q(s, a) \leftarrow Q(s, a)+\alpha \cdot\left[r_{t+1}+\gamma \cdot \max _{a^{\prime}} Q\left(s^{\prime}, a^{\prime}\right)-Q(s, a)\right]
-$$
+$$Q(s, a) \leftarrow Q(s, a)+\alpha \cdot\left[r_{t+1}+\gamma \cdot \max _{a^{\prime}} Q\left(s^{\prime}, a^{\prime}\right)-Q(s, a)\right] $$
 
-利用神经网络拟合$ Q(s, a)$
+利用神经网络拟合$Q(s, a)$
 
 ## 3.操作说明
 
