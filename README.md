@@ -24,7 +24,7 @@ Q-Learning迭代函数
 
 利用神经网络拟合Q(s, a)
 <div align=center>
-<img src="https://github.com/Luciferbobo/Flappybird/blob/main/Fig/s2.png">  
+<img src="https://github.com/Luciferbobo/Flappybird/blob/main/Fig/s2.png" width="493" height="270">  
 </div>
 
 ## 3.操作说明
