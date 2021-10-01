@@ -9,11 +9,11 @@
   
 </div>
 
-·Epoch 1000     Score：1-2
+**·**Epoch 1000     Score：1-2
 
-·Epoch 10k       Score：20+
+**·**Epoch 10k       Score：20+
 
-·Epoch 100w    Score：200+
+**·**Epoch 100w    Score：200+
 
 
 
