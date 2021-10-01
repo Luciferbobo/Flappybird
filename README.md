@@ -19,7 +19,7 @@ Q-Learning工作过程
 
 Q-Learning迭代函数
 <div align=center>
-<img src="https://github.com/Luciferbobo/Flappybird/blob/main/Fig/s3.png">  
+<img src="https://github.com/Luciferbobo/Flappybird/blob/main/Fig/s3.png" width="690" height="109">  
 </div>
 
 利用神经网络拟合Q(s, a)
