@@ -3,6 +3,9 @@
 
 ## 1.效果展示
 <div align=center>
-<img src="https://github.com/Luciferbobo/Flappybird/blob/main/Fig/Flappybird.gif" width="176" height="144"> 
-</div>
+<img src="https://github.com/Luciferbobo/Flappybird/blob/main/Fig/Flappybird.gif" width="356" height="288"> 
+  
 空格键进行跳跃
+  
+</div>
+
