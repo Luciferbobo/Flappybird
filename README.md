@@ -11,12 +11,21 @@
 
 ## 2.算法
 
-Q-Learning迭代
+Q-Learning工作过程
 <div align=center>
-<img src="https://github.com/Luciferbobo/Flappybird/blob/main/Fig/s1.png" >  
+<img src="https://github.com/Luciferbobo/Flappybird/blob/main/Fig/s1.png" width="840" height="395">  
+</div>
+
+
+Q-Learning迭代函数
+<div align=center>
+<img src="https://github.com/Luciferbobo/Flappybird/blob/main/Fig/s3.png">  
 </div>
 
 利用神经网络拟合Q(s, a)
+<div align=center>
+<img src="https://github.com/Luciferbobo/Flappybird/blob/main/Fig/s2.png">  
+</div>
 
 ## 3.操作说明
 
