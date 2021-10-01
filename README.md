@@ -13,8 +13,7 @@
 
 Q-Learning迭代
 <div align=center>
-<img src="https://github.com/Luciferbobo/Flappybird/blob/main/Fig/s1.png" > 
- 
+<img src="https://github.com/Luciferbobo/Flappybird/blob/main/Fig/s1.png" >  
 </div>
 
 利用神经网络拟合Q(s, a)
