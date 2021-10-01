@@ -1,5 +1,6 @@
 # Flappybird
 和DQN一起玩Flappybird(Flappybird的强化学习实现)
+
 在pygame的Flappybird的游戏上实添加DQN模块，实现AI与玩家共同进行游戏。
 
 ## 1.效果展示
