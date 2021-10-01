@@ -9,7 +9,7 @@
   
 </div>
 
-**·Epoch 1000     Score：1-2 **
+·Epoch 1000     Score：1-2 
 
 ·Epoch 10k       Score：20+
 
@@ -37,6 +37,12 @@ Q-Learning迭代函数
 
 ## 3.操作说明
 
-需要安装的库
+Main requirements:
+~~~shell
+torch
+cv2
+pygame
+~~~
+
 空格键进行跳跃
 
