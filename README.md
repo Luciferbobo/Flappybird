@@ -1,4 +1,4 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default">
 # Flappybird
 和DQN一起玩Flappybird(Flappybird的强化学习实现)
 
@@ -22,3 +22,4 @@ $$Q(s, a) \leftarrow Q(s, a)+\alpha \cdot\left[r_{t+1}+\gamma \cdot \max _{a^{\p
 需要安装的库
 空格键进行跳跃
 
+</script>
