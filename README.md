@@ -9,6 +9,14 @@
   
 </div>
 
+·Epoch 1000     Score：1-2
+
+·Epoch 10k       Score：20+
+
+·Epoch 100w    Score：200+
+
+
+
 ## 2.算法
 
 Q-Learning工作过程
