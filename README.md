@@ -1,13 +1,12 @@
 # Flappybird
-和DQN一起玩Flappybird(Flappybird的强化学习实现)
+Play Flappybird with DQN (Reinforcement Learning for Flappybird)
+Player can play Flappybird with AI together by DQN module.
 
-在pygame的Flappybird的游戏上实添加DQN模块，实现AI与玩家共同进行游戏。
-
-## 1.效果展示
+## 1.Intro
 <div align=center>
 <img src="https://github.com/Luciferbobo/Flappybird/blob/main/Fig/Flappybird.gif" width="356" height="288"> 
   
-左AI,右玩家
+(Left AI, Right Player)
   
 </div>
 
@@ -19,25 +18,25 @@
 
 
 
-## 2.算法
+## 2.Algorithm
 
-Q-Learning工作过程
+Q-Learning
 <div align=center>
 <img src="https://github.com/Luciferbobo/Flappybird/blob/main/Fig/s1.png" width="840" height="395">  
 </div>
 
 
-Q-Learning迭代函数
+Q-Learning iteration function
 <div align=center>
 <img src="https://github.com/Luciferbobo/Flappybird/blob/main/Fig/s3.png" width="690" height="109">  
 </div>
 
-利用神经网络拟合Q(s, a)
+Using neural network to fit Q(s, a)
 <div align=center>
 <img src="https://github.com/Luciferbobo/Flappybird/blob/main/Fig/s2.png" width="493" height="270">  
 </div>
 
-## 3.操作说明
+## 3.How to play
 
 Main requirements:
 ~~~shell
@@ -46,5 +45,5 @@ cv2
 pygame
 ~~~
 
-空格键进行跳跃
+Space→Jump
 
