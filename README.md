@@ -1,6 +1,6 @@
-# Flappybird
-Play Flappybird with DQN (Reinforcement Learning for Flappybird)
-Player can play Flappybird with AI together by DQN module.
+# AI Flappybird
+
+This is a project for utilizing reinforcement learning in Flappybird, allowing players to compete with an DQN-based AI agent.
 
 ## 1.Intro
 <div align=center>
